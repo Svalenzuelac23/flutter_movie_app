@@ -1,0 +1,9 @@
+export 'buttom_bar.dart';
+export 'categories_bar.dart';
+export 'category_card.dart';
+export 'indetifier_movie_selected.dart';
+export 'movie_card.dart';
+export 'movies_app_bar.dart';
+export 'movies_category.dart';
+export 'movies_search_bar.dart';
+export 'movies_view.dart';

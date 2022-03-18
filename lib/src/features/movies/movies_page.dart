@@ -20,6 +20,7 @@ class MoviesPages extends StatelessWidget {
             child: Padding(
               padding: const EdgeInsets.symmetric(vertical: 10, horizontal: 25),
               child: Scaffold(
+                resizeToAvoidBottomInset: false,
                 appBar: const PreferredSize(
                   child: MoviesAppBar(),
                   preferredSize: Size.fromHeight(kToolbarHeight),
